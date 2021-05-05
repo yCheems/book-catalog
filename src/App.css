@@ -1,0 +1,40 @@
+.header {
+  height: 15vh;
+}
+
+.regForm {
+  width: 30%;
+  margin: 0 auto;
+  border: 2px solid rgb(97, 94, 94);
+  padding: 20px;
+  border-radius: 5px;
+}
+.regBtn {
+  width: 60%;
+  margin: 0 20%;
+  text-align: center;
+}
+.alrdyRegText {
+  margin: 4vh auto;
+  text-align: center;
+  color: rgb(77, 70, 70);
+}
+.regAlert {
+  width: 30%;
+  margin: 10px auto;
+}
+.listItem {
+  margin: 1vh auto;
+  padding: 4px;
+  width: 100%;
+  border-radius: 5px;
+  border: 2px solid rgb(97, 94, 94);
+  display: flex;
+  position: relative;
+}
+.listBtn {
+  float: right;
+  max-height: 100%;
+  margin: 0 10px;
+  max-width: 100%;
+}
